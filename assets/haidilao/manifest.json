@@ -3,11 +3,11 @@
   "version": 1,
   "files": {
     "red": {
-      "path": "assets/haidilao/haidilao-logo-red.png",
+      "url": "https://raw.githubusercontent.com/blackrocx0/Codex/main/assets/haidilao/haidilao-logo-red.png",
       "sha256": "99d29a561bf0621c3dce3c0ccba9760ceb23d9fe1e687b35c025de1c78a0b838"
     },
     "white": {
-      "path": "assets/haidilao/haidilao-logo-white.png",
+      "url": "https://raw.githubusercontent.com/blackrocx0/Codex/main/assets/haidilao/haidilao-logo-white.png",
       "sha256": "4666536a6423c1ecc805f886ba9c3a2e292021ae12d9692382a42db6efd8f419"
     }
   }
